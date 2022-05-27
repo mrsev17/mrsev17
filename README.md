@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm beginner in frontent. Here is some work from my portfolio:
+I'm beginner in frontend. Here is some work from my portfolio:
 
 https://mrsev17.github.io/HalcyonProject/
 
