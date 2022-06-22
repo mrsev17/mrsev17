@@ -2,6 +2,8 @@
 
 I'm beginner in frontend. Here is some work from my portfolio:
 
+https://mrsev17.github.io/CodX_NFT_LandingPage/
+
 https://mrsev17.github.io/Duo.UnlimitedDisplay/
 
 https://mrsev17.github.io/Portfolio_Project_Cyber_Security_Landing/
