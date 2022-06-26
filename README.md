@@ -2,6 +2,12 @@
 
 I'm beginner in frontend. Here is some work from my portfolio:
 
+JavaScript:
+
+https://mrsev17.github.io/Vanilla_JS_ShoppingList/
+
+HTML & CSS:
+
 https://mrsev17.github.io/CodX_NFT_LandingPage/
 
 https://mrsev17.github.io/Duo.UnlimitedDisplay/
