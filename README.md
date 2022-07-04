@@ -4,7 +4,9 @@ I'm beginner in frontend. Here is some work from my portfolio:
 
 JavaScript:
 
-https://mrsev17.github.io/Vanilla_JS_ShoppingList/
+Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
+
+Counter: https://mrsev17.github.io/JS_CounterApp/
 
 HTML & CSS:
 
