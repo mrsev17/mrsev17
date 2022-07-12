@@ -10,6 +10,8 @@ Counter: https://mrsev17.github.io/JS_CounterApp/
 
 HTML & CSS:
 
+https://mrsev17.github.io/LandingPage_NFTHUT/
+
 https://mrsev17.github.io/CodX_NFT_LandingPage/
 
 https://mrsev17.github.io/Duo.UnlimitedDisplay/
