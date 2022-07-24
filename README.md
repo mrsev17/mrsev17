@@ -1,5 +1,5 @@
 ![My Remote Image](https://raw.githubusercontent.com/mrsev17/mrsev17/main/header.png)
-[![MasterHead](your image link)](https://github.com/mrsev17)
+
 Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
 
 Counter: https://mrsev17.github.io/JS_CounterApp/
