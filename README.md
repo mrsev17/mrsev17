@@ -1,14 +1,8 @@
 ![My Remote Image](https://raw.githubusercontent.com/mrsev17/mrsev17/main/header.png)
 
-I'm beginner in frontend. Here is some work from my portfolio:
-
-JavaScript:
-
 Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
 
 Counter: https://mrsev17.github.io/JS_CounterApp/
-
-HTML & CSS:
 
 https://mrsev17.github.io/LandingPage_NFTHUT/
 
@@ -25,6 +19,5 @@ https://mrsev17.github.io/HalcyonProject/
 https://mrsev17.github.io/app_lab_landing_page/
 
 https://mrsev17.github.io/AgencyPage/
-
 
 My CodeWars profile: https://www.codewars.com/users/mrsev17
