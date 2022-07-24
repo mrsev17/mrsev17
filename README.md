@@ -1,6 +1,6 @@
 ![My Remote Image](https://raw.githubusercontent.com/mrsev17/mrsev17/main/header.png)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsev17)](https://github.com/mrsev17/github-readme-stats)
 
 Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
 
