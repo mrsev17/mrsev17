@@ -1,6 +1,6 @@
 ![My Remote Image](https://raw.githubusercontent.com/mrsev17/mrsev17/main/header.png)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsev17&layout=compact)](https://github.com/mrsev17/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mrsev17)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrsev17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
