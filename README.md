@@ -1,7 +1,7 @@
 ![My Remote Image](https://raw.githubusercontent.com/mrsev17/mrsev17/main/header.png)
 
 
-<a href="https://git.io/streak-stats">
+<a align="center" href="https://git.io/streak-stats">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrsev17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </a>
 
