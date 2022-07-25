@@ -3,7 +3,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsev17&layout=compact&theme=radical)](https://github.com/mrsev17/github-readme-stats)
 
 
-<p align=center>
 Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
 
 Counter: https://mrsev17.github.io/JS_CounterApp/
@@ -25,4 +24,3 @@ https://mrsev17.github.io/app_lab_landing_page/
 https://mrsev17.github.io/AgencyPage/
 
 My CodeWars profile: https://www.codewars.com/users/mrsev17
-</p>
