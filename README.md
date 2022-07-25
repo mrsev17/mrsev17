@@ -1,10 +1,8 @@
 ![My Remote Image](https://raw.githubusercontent.com/mrsev17/mrsev17/main/header.png)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrsev17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
+<a href="https://git.io/streak-stats">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=mrsev17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrsev17&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
