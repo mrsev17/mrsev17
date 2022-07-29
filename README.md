@@ -6,6 +6,8 @@ Shopping list: https://mrsev17.github.io/Vanilla_JS_ShoppingList/
 
 Counter: https://mrsev17.github.io/JS_CounterApp/
 
+https://mrsev17.github.io/JunJun_RealcoLanding/
+
 https://mrsev17.github.io/LandingPage_NFTHUT/
 
 https://mrsev17.github.io/CodX_NFT_LandingPage/
