@@ -9,4 +9,8 @@
 
 5) iDo-App (React, Redux, TypeScript) - https://strong-mermaid-741094.netlify.app/
 
-6) Cars-Acounting (React) - https://flourishing-semolina-866fb7.netlify.app/
+6) News homepage (React, Tailwind CSS) - https://ubiquitous-selkie-23179e.netlify.app/
+
+7) Age calculator app (React, Redux, TypeScript) - https://age-calculator-app-mrsev.netlify.app/
+
+8) Cars-Acounting (React) - https://flourishing-semolina-866fb7.netlify.app/
